@@ -3,6 +3,11 @@
     background-image: url(FlyBallSmartphone.jpg);
     background-size: cover;
     background-position: center center;
+     margin: 0;
+   padding: 0;
+   overflow-x: hidden;
+   height: 100%;
+   width: 100%;
  }
 }
  
@@ -12,5 +17,6 @@ html , body {
    overflow-x: hidden;
    height: 100%;
    width: 100%;
+ 
 }
 
