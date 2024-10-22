@@ -35,4 +35,6 @@ width: 100%;
 .invisible-button {
     margin-top: 350px;
     margin-left: 200px;
+    width: 150px;
+    height: 70px;
 }
