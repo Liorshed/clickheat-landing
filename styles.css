@@ -5,14 +5,12 @@ body {
 
 }
 
-#invisibleButton {
-    border: none;
-    position: absolute;
-    top: 630px;
-    left: 600px;
-    width: 300px;
+button {
+    margin-left: 610px;
+    margin-top: 630px;
     height: 50px;
-    cursor: pointer;
-    background-attachment: transparent;
+    width: 280px;
     opacity: 0;
+    background-color: transparent;
+    cursor: pointer;
 }
