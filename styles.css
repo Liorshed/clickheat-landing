@@ -15,3 +15,10 @@ button {
     cursor: pointer;
 }
 
+#desktopV {
+    position: absolute;
+    top: 605px;
+    left: 660px;
+    font-size: 4em;
+    opacity: 0;
+}

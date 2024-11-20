@@ -10,6 +10,10 @@
     width: 100%;
     
  }
+ #desktopV {
+   display: none;
+}
+
 }
  
 
@@ -24,7 +28,6 @@ width: 100%;
 
  
 }
-
 
 
 
