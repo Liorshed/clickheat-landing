@@ -16,14 +16,5 @@ button {
 }
 
 a {
-    text-align: center;
-    align-items: center;
-    display: block;
-    position: absolute;
-    top: 600px;
-    left: 620px;
-    width: 100px;
-    height: 40px;
-    font-size: 5em;
-    opacity: 0;
+   display: none;
 }
